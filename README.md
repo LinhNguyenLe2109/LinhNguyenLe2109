@@ -26,9 +26,9 @@
 </p>
 
 
-<details>
+<details style="font-size: 2rem">
 
-<summary><span style="font-size: 2rem">Random joke for the day :joy:</span></summary>
+<summary>Random joke for the day :joy:</summary>
 
 <!-- joke generator -->
 <!-- Markdown -->
