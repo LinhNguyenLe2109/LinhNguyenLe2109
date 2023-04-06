@@ -1,10 +1,7 @@
 ![Banner - Programming is challenging and exciting](./pictures/banner.png)
 
 <!-- running svg -->
-
-<div style="text-align:center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=8A3BF7&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=8A3BF7&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
 
 <!-- github stat -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
