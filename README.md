@@ -26,7 +26,7 @@
 </p>
 
 
-<details style="font-size: 2rem">
+<details style="font-size: 10rem">
 
 <summary>Random joke for the day :joy:</summary>
 
