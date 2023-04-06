@@ -1,4 +1,4 @@
-![alt text](./pictures/banner.png)
+![Banner - Programming is challenging and exciting](./pictures/banner.png)
 
 <!-- running svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=8A3BF7&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
@@ -35,3 +35,21 @@
 
 <!-- quote generator -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+<!-- collapsed section -->
+<!-- <details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details> -->
