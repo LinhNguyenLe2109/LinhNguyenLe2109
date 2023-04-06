@@ -1,1 +1,1 @@
-## Hello, my name is Linh Nguyen Le - a 5th semester student at Seneca. I love programming and I look forward for a good career in tech industry :) .
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109)](https://github.com/anuraghazra/github-readme-stats)
