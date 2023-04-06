@@ -5,7 +5,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8A3BF7&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!"/></a>
 </p>
 
-<h2 style="text-align:center">My current stat :star2:</h2> 
+<div style="text-align:center;">
+  <h2 style="text-align:center">My current stat :star2:</h2> 
+</div>
 
 <!-- github stat -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109&count_private=true&show_icons=true&theme=merko&hide=prs,issues&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
