@@ -25,3 +25,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=8A3BF7&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!)](https://git.io/typing-svg)
 
 
+<!-- joke generator -->
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=merko)
+
+
+<!-- quote generator -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
