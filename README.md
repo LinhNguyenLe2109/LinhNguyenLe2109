@@ -24,8 +24,8 @@
 ## Connect with me :telephone:
 
 <p align="center">
-<a href="mailto:lelinhnguyen2109@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="" height="60" width="70" /></a>
-<a href="https://www.linkedin.com/in/le-linh-nguyen-21092002/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" height="60" width="70" /></a>
+<a href="mailto:lelinhnguyen2109@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail icon" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/le-linh-nguyen-21092002/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn icon" height="50" width="60" /></a>
 </p>
 
 <details>
