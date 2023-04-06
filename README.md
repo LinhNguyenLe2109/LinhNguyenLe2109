@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="lelinhnguyen2109@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="" height="60" width="70" /></a>
-<a href="your link" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" height="60" width="70" /></a>
+<a href="https://www.linkedin.com/in/le-linh-nguyen-21092002/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="" height="60" width="70" /></a>
 </p>
 
 <details>
