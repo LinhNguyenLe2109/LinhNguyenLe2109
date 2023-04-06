@@ -23,8 +23,8 @@
 
 ## Connect with me :telephone:
 
-<p align="left">
-<a href="lelinhnguyen2109@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<p align="center">
+<a href="lelinhnguyen2109@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" /></a>
