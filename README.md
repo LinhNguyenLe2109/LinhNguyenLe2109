@@ -2,7 +2,7 @@
 
 <!-- running svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8A3BF7&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4B9C00&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Linh+Nguyen+Le;Welcome+to+my+profile!!!"/></a>
 </p>
 
 ## My current stat :star2:
