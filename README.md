@@ -17,37 +17,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyenLe2109&langs_count=10&theme=merko&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Link for contact -->
-<h2 align="left">Connect with me:</h2>
+## Connect with me :telephone:
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="lelinhnguyen2109@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
+<details>
+
+<summary>Random joke for the day :joy:</summary>
+
 <!-- joke generator -->
 <!-- Markdown -->
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=merko)
+
+</details>
+
+
+
 
 
 <!-- quote generator -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 
-<!-- collapsed section -->
-<!-- <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details> -->
