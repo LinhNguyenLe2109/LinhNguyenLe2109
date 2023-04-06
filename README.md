@@ -8,13 +8,13 @@
 ## My current stat :star2:
 
 <!-- github stat -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109&count_private=true&show_icons=true&theme=merko&hide=prs,issues&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109&count_private=true&show_icons=true&theme=merko&hide=prs,issues&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Github streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LinhNguyenLe2109&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- github top language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyenLe2109&langs_count=10&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyenLe2109&langs_count=10&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats&card_width=500)
 
 <!-- Link for contact -->
 <h3 align="left">Connect with me:</h3>
