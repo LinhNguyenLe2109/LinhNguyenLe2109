@@ -1,5 +1,3 @@
-![Banner - Programming is challenging and exciting](./pictures/banner.png)
-
 <!-- running svg -->
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=1000&color=4B9C00&vCenter=true&random=false&width=600&height=54&separator=%3C&lines=Hello%2C+my+name+is+Linh+Nguyen+Le%3CBut+you+can+call+me+Nathan+;)%3CWelcome+to+my+profile!!!" alt="Typing SVG" /></a>
