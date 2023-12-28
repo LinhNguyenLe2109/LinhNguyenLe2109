@@ -24,6 +24,12 @@
   </a>
 </div>
 
+## About me :blush::
+- I'm a software engineer who likes trying new stuff and this is where I break most of my code very often :sweat_smile::
+  - I love promoting ideas and trying new technologies, ideas to make softwares run more efficiently
+  - I enjoy working and helping people, seeing our projects coming together after all the hard work is very delightful.
+- Besides coding, I enjoy playing video games :computer:, listening to podcasts :headphones: and watching documentaries about the universe :sunny:.
+
 ## Technical Skills :hammer_and_wrench::
 ### Tools:
 <div>
