@@ -12,6 +12,18 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width:50%;height:0;padding-bottom:80%;position:relative;"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://portfolio-sigma-seven-82.vercel.app/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-b649de?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/le-linh-nguyen-21092002/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lelinhnguyen2109@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
 ## Technical Skills :hammer_and_wrench::
 ### Tools:
 <div>
@@ -61,12 +73,3 @@
 <!-- github top language -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyenLe2109&langs_count=10&theme=material-palenight&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Link for contact -->
-
-## Connect with me :telephone:
-
-<p align="center">
-<a href="mailto:lelinhnguyen2109@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail icon" height="50" width="60" /></a>
-<a href="https://www.linkedin.com/in/le-linh-nguyen-21092002/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn icon" height="50" width="60" /></a>
-</p>
