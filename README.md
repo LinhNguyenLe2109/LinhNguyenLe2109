@@ -1,11 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width:100%;height:0;padding-bottom:80%;position:relative;"/>
+
+<div align="center" style="width:100%" >
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" style="width:100%;height:0;padding-bottom:80%;position:relative;"/>
 </div>
 
 <!-- running svg -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=1000&color=4B9C00&vCenter=true&random=false&width=600&height=54&separator=%3C&lines=Hello%2C+my+name+is+Linh+Nguyen+Le%3CBut+you+can+call+me+Nathan+;)%3CWelcome+to+my+profile!!!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=1000&color=b649de&vCenter=true&random=false&width=550&height=54&separator=%3C&lines=Hello%2C+my+name+is+Linh+Nguyen+Le%3CBut+you+can+call+me+Nathan+;)%3CWelcome+to+my+profile!!!" alt="Typing SVG" /></a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width:50%;height:0;padding-bottom:80%;position:relative;"/>
+</div>
 
 ## Technical Skills :hammer_and_wrench::
 ### Tools:
@@ -39,15 +44,15 @@
 
 <!-- github stat -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109&count_private=true&show_icons=true&theme=merko&hide=prs,issues&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhNguyenLe2109&count_private=true&show_icons=true&theme=material-palenight&hide=prs,issues&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Github streak -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LinhNguyenLe2109&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LinhNguyenLe2109&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- github top language -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyenLe2109&langs_count=10&theme=merko&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhNguyenLe2109&langs_count=10&theme=material-palenight&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Link for contact -->
 
